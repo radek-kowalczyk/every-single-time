@@ -141,7 +141,7 @@ CVEs
   lead to remote escalation of privilege if a malicious Wi-Fi AP is used, with no 
   additional execution privileges needed. User interaction is not needed for 
   exploitation.Product: AndroidVersions: Android-11Android ID: A-201660636
-* `CVE-2022-20144`: In multiple functions of AvatarPhotoController.java, there is 
+* `CVE-2022-20144`_: In multiple functions of AvatarPhotoController.java, there is 
   a possible access to content owned by system content providers due to a confused 
   deputy. This could lead to local escalation of privilege with no additional 
   execution privileges needed. User interaction is not needed for 
