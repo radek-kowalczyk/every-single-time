@@ -25,6 +25,12 @@ Christianity
 
    Check <a href="https://radek11.substack.com/p/every-single-time#%C2%A7christianity">Christianity</a>
 
+Corruption
+==========
+.. raw:: html
+
+   Check <a href="https://radek11.substack.com/p/every-single-time#%C2%A7corruption">Corruption</a>
+
 
 Democracy
 =========
