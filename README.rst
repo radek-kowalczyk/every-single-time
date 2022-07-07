@@ -13,6 +13,19 @@ Abortion
 
    Check <a href="https://radek11.substack.com/p/every-single-time#%C2%A7abortion">Abortion</a>
 
+Authoritarians
+==============
+.. raw:: html
+
+   Check <a href="https://radek11.substack.com/p/every-single-time#%C2%A7authoritarians">Authoritarians</a>
+
+Christianity
+============
+.. raw:: html
+
+   Check <a href="https://radek11.substack.com/p/every-single-time#%C2%A7christianity">Christianity</a>
+
+
 Democracy
 =========
 .. raw:: html
