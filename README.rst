@@ -128,3 +128,27 @@ Ukraine-Russia War
    <img src="https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9fd4f557-8a7c-4eb7-92ca-339f1c660ee5_640x791.jpeg"/>
    </div>
  
+CVEs
+====
+* `CVE-2022-1667`_: Client-side JavaScript controls may be bypassed by directly 
+  running a JS function to reboot the PLC (e.g., from the browser console) or by 
+  loading the corresponding, browser accessible PHP script
+* `CVE-2021-41411`_: drools <=7.59.x is affected by an XML External Entity (XXE) 
+  vulnerability in KieModuleMarshaller.java. The Validator class is not used 
+  correctly, resulting in the XXE injection vulnerability.
+* `CVE-2022-20145`_: In startLegacyVpnPrivileged of Vpn.java, there is a possible 
+  way to retrieve VPN credentials due to a protocol downgrade attack. This could 
+  lead to remote escalation of privilege if a malicious Wi-Fi AP is used, with no 
+  additional execution privileges needed. User interaction is not needed for 
+  exploitation.Product: AndroidVersions: Android-11Android ID: A-201660636
+* `CVE-2022-20144`: In multiple functions of AvatarPhotoController.java, there is 
+  a possible access to content owned by system content providers due to a confused 
+  deputy. This could lead to local escalation of privilege with no additional 
+  execution privileges needed. User interaction is not needed for 
+  exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 
+  Android-12LAndroid ID: A-187702830
+
+.. _CVE-2022-1667: https://nvd.nist.gov/vuln/detail/CVE-2022-1667
+.. _CVE-2021-41411: https://nvd.nist.gov/vuln/detail/CVE-2021-41411
+.. _CVE-2022-20145: https://nvd.nist.gov/vuln/detail/CVE-2022-20145
+.. _CVE-2022-20144: https://nvd.nist.gov/vuln/detail/CVE-2022-20144
